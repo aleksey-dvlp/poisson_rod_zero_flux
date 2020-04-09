@@ -10,7 +10,7 @@ Discretization (where c is a numerical representation of the analitical function
 n = 1:
 c[2] -2c[1]+c[0]      c[2] - c[0]
 -----------------   + ------------- = h(exp(h)),  c[0] = 5
-      h*h                 2*h
+      hh                 2h
 
 n = 2, N-1
 
