@@ -8,8 +8,8 @@ du(1)/dx = 0
 Discretization (where c is a numerical representation of the analitical function u):
 
 n = 1:
-c[2] -2c[1]+c[0]      c[2] - c[0]
------------------   + ------------- = h(exp(h)),  c[0] = 5
+c_2 -2c_1+c_0          c_2 - c_0
+-----------------   + ------------- = h(exp(h)),  c_0 = 5
       hh                 2h
 
 n = 2, N-1
