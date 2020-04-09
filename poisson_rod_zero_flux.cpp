@@ -20,7 +20,7 @@ n = N
  2*(c[N-1]-c[N])    
 ----------------  = N*h*(exp(N*h))
       h*h        
-means that the second boundary condition (du(1)/dx=0) approximezed by
+means that the second boundary condition (du(1)/dx=0) approximized by
 adding a fictive node at the coordinate Nh+h and putting there a value
 c[N+1] = c[N-1]
  */
